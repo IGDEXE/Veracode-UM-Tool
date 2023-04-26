@@ -1,0 +1,18 @@
+{
+    "rolesDev":[
+       {
+          "role_name":"securityinsightsonly"
+       },
+       {
+          "role_name":"greenlightideuser"
+       }
+    ],
+    "rolesManager":[
+        {
+           "role_name":"securityinsightsonly"
+        },
+        {
+           "role_name":"eLearning"
+        }
+     ]
+ }

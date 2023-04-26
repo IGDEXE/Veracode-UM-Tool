@@ -1,0 +1,24 @@
+{
+    "email_address":"prevendas+example@m3corp.com.br",
+    "first_name":"Example",
+    "last_name":"User",
+    "ip_restricted":false,
+    "pin_required": false,
+    "active":true,
+    "roles":[
+       {
+          "role_name":"securityinsightsonly"
+       },
+       {
+          "role_name":"greenlightideuser"
+       }
+    ],
+    "title":"Sample",
+    "user_name":"prevendas+example@m3corp.com.br",
+    "userType":"VOSP",
+    "teams":[
+       {
+          "team_id":"DEMOs"
+       }
+    ]
+ }
