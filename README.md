@@ -20,8 +20,8 @@ Remove-VeracodeUser - Deletes user based on email<br>
 <br>
 # How to use?
 Import the VeracodeUM.psm1 module in Powershell<br>
-Repurpose functions in your own scripts<br>
-If you want to use it in a script format, use the ones from the corresponding folders<br>
+Use the functions in your own scripts<br>
+If you want to use it in a script format, use the scripts from the corresponding folders<br>
 <br>
 # How to use in Linux?
 I recommend that you consult the documentation to verify all the details:<br>
